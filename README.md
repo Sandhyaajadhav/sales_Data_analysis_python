@@ -1,2 +1,17 @@
-# sales_Data_analysis_python
-This project analyzes sales data to uncover insights such as:  Monthly sales trends  Best-selling products  Revenue by region  Sales performance visualization  The analysis is done using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+# Sales Data Analysis Using Python
+
+This project analyzes sales data to identify trends and insights using Python.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## How to Run
+1. Install dependencies using `pip install -r requirements.txt`
+2. Run `python sales_analysis.py`
+
+## Author
+Sandhya Jadhav
